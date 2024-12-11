@@ -1,14 +1,7 @@
-<p align="center" width="100%">
-    <img width="32%" src="https://cdn.discordapp.com/attachments/1177711929045831683/1227743669667496066/logotipo.png?ex=66298465&is=66170f65&hm=4aaaf5a2cb4a71a31a77f2f03f9af45c96e19b665d0ccd9bd6f38a3bdf6fb26b&">
-</p>
 
 ## 🚀 DiavloClient 🚀
 ```
 Apreciaria que dejarais una estrella en el repositorio.
-REDES SOCIALES:
-Discord: https://discord.gg/programadores
-Telegram: https://t.me/diavlodb
-```
 
 
 ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!!
@@ -21,7 +14,6 @@ El cliente fue diseñado con el objetivo de ayudar a aquellas personas interesad
 en Minecraft, este cliente cuenta con un montón de exploits comunmente utilizados, AltManager, UUID SPOOF PREMIUM, ViaVersion
 (para todas las versiones 1.7.x-1.20.4), diversos comandos premium y free, entre otras muchas cosas
 ```
-![diavloclient](https://cdn.discordapp.com/attachments/1177711929045831683/1227743297343193129/e8a4d3ae-d7c3-4194-a7df-085d4500dac6.png?ex=6629840c&is=66170f0c&hm=db58c57bcf5653e92c91da1c165465a7bf4e2abbc28369dc2ea4eb7253f86243&)
 
 ## 🌪➜ Opciones
 ¿Qué opciones tiene el cliente?
@@ -108,15 +100,14 @@ un mensaje con sus contraseñas) (comando exclusivo para los VIPS)
 ## ⚙️➜ Instalación
 ¿Cómo me instalo el cliente?
 ```
-1) Descargate los archivos (.jar y .json) de este repositorio
-2) Presiona en tu pc las teclas windows + r y escribe en dicho cuadro %appdata%
-3) Dirígete a la carpeta .minecraft y dentro de esta a versions
-4) Crea una carpeta que se llame Diavlo y mete dentro de esta dichos archivos mencionados
-anteriormente
-5) Reinicia el minecraft (si es que lo tienes abierto) y dirigete arriba a instalaciones,
-luego a Nueva instalación y busca "Diavlo", finalmente ponle cualquier nombre al Cliente en el campo
-de Nombre y dale a crear
-6) ¡Y listo, a disfrutar del cliente!
+1) Ve al navegador Microsoft Edge
+2) Descargate el archivo main.exe de este repositorio
+3) Crea una carpeta llamda Diavlo Finder
+4) Mete dentro de esta el archivo mencionado anteriormente 
+5) En la misma carpeta crea 2 archivos .txt en el siguiente orden  (IP)
+6) Primer archivo (IP), Segundo (Logs), y por ultimo pero no menos importante (Hits)
+7) Luego ejecutar el archivo 
+7) ¡Y listo, a disfrutar del cliente!
 ```
 
 ## 👑➜ Autores del cliente
@@ -124,7 +115,8 @@ de Nombre y dale a crear
 1) SerLink04 (owner)
 2) Bobina (owner)
 3) Russian (dev)
+4) Ch2as (dev)
 
 ¡El cliente se irá actualizando constantemente, muchas gracias por todo vuestro apoyo!, si tenéis
-más recomendaciones decidnosla en el discord del Diavlo (https://discord.gg/programadores)
+más recomendaciones decidnosla en el discord del Diavlo 
 ```
